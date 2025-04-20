@@ -89,7 +89,7 @@ Make sure you always download the **ronix executor latest version** to stay up t
 
 Here's how Ronix stacks up against other popular Roblox executors in 2025:
 
-| Feature                 | Ronix Executor | Fluxus (Free) | Synapse X (Paid) |
+| Feature                 | Ronix Executor | Free Executors | Paid Executors |
 |------------------------|----------------|----------------|------------------|
 | Price                  | Free           | Free           | $20              |
 | Platform Support       | PC & Mobile    | PC Only        | PC Only          |
